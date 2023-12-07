@@ -36,4 +36,3 @@ A automação pode ser executada a partir do VSCode através da linha de comando
   
   Ao acessar a automação é possivel notar que nem todos os arquivos contidos nela estão com extensão .robot. Os arquivos de PageObjects e Resouces estão definidos com .resource por duas razões. Uma é que a linguagem permite este tipo de definição, dois, estas páginas são apenas declarativas desta forma eles são apenas importadas e compartilhadas pelos arquivos que as usam.    
 
-**Considerações finais**
