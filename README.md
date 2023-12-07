@@ -2,9 +2,7 @@
 
 **Introdução**
 
-   Primeiramente eu gostaria de agradecer a oportunidade de apresentar esta utomação desenvolvida uilizando ROBOT Framework em resposta ao teste para vaga de automatizador sênior da CCEE.  
-  Para melhor avaliação do teste é interesante que sejam seguidos os passos abaixo e também seja lida esta documentação.  
-  Este projeto foi desenvolvido observando as melhores práticas de desenvolvmento e demonstra um pouco quão poderosa e viável é a aplicação do ROBOT Framework para aplicação de testes de automação de software.
+   Primeiramente eu gostaria de agradecer a oportunidade de apresentar esta utomação desenvolvida uilizando ROBOT Framework em resposta ao teste para vaga de automatizador sênior da CCEE. Para melhor avaliação do teste é interesante que sejam seguidos os passos abaixo e também seja lida esta documentação. Este projeto foi desenvolvido observando as melhores práticas de desenvolvmento e demonstra um pouco quão poderosa e viável é a aplicação do ROBOT Framework para aplicação de testes de automação de software.
 
 **Dependências**
 
