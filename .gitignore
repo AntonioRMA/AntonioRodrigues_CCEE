@@ -8,6 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+log.html
+output.xml
+report.html
+refs.txt
 build/
 develop-eggs/
 dist/
